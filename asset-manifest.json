@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Book-Search-App/static/css/main.fa6ae3de.css",
+    "main.js": "/Book-Search-App/static/js/main.172b038a.js",
+    "static/js/453.7e36bb52.chunk.js": "/Book-Search-App/static/js/453.7e36bb52.chunk.js",
+    "index.html": "/Book-Search-App/index.html",
+    "main.fa6ae3de.css.map": "/Book-Search-App/static/css/main.fa6ae3de.css.map",
+    "main.172b038a.js.map": "/Book-Search-App/static/js/main.172b038a.js.map",
+    "453.7e36bb52.chunk.js.map": "/Book-Search-App/static/js/453.7e36bb52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa6ae3de.css",
+    "static/js/main.172b038a.js"
+  ]
+}
